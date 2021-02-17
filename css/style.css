@@ -1,0 +1,28 @@
+body{
+    background-color: #00c2a8;
+    color: #fff;
+    
+    
+}
+#titulo {
+    text-align: center;
+}
+
+.flex-container{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.bordes{
+    margin: 40px;
+}
+.score{
+    margin: 10px 80px;
+}
+
+.elementos{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
